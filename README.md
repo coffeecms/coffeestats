@@ -26,3 +26,9 @@
  - In admin panel after Coffee Stats activated, click Coffee Stats menu -> Trackings -> Create new tracking id and get your embed code, add this code into <head> tag of website that you want tracking stats
  - On all trackings page, click onto tracking title to view report of that tracking id which you clicked
  
+<div align="center">
+
+<h1>Customers:</h1>
+
+[Đọc truyện chữ](https://truyenchuhub.com/) 
+</div>
